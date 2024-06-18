@@ -1,6 +1,10 @@
 # Sistema de Gestao de Estoque
 ## Um sistema para monitoramento e controle de estoque, facilitando a gestão de produtos e otimização de recursos.
 
+- Java
+- Spring Boot
+- MongoDB
+- thymeleaf
 
 ![Captura de tela 2024-06-18 000844](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/79bfd4c0-3d15-47e3-8104-73985b2aff15)
 ![Captura de tela 2024-06-18 001002](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/8b6728be-1c86-4ba3-ae60-3b07ca34916e)
