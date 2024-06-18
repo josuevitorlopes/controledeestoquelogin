@@ -6,7 +6,9 @@
 - MongoDB
 - thymeleaf
 
-![Captura de tela 2024-06-18 000844](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/79bfd4c0-3d15-47e3-8104-73985b2aff15)
-![Captura de tela 2024-06-18 001002](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/8b6728be-1c86-4ba3-ae60-3b07ca34916e)
-![Captura de tela 2024-06-18 001009](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/c7904e82-ae4e-4a3b-94cf-992ddb9a7a76)
-![Captura de tela 2024-06-18 001520](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/218adb60-185a-4b04-86d8-b5803e79fcda)
+
+
+![Captura de tela 2024-06-18 080145](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/09eec97d-dbc3-47e9-a277-82ee0113cd6c)
+![Captura de tela 2024-06-18 080301](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/aae00ad8-76a1-4036-a287-8bb1f0f2775e)
+![Captura de tela 2024-06-18 080324](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/dd0007c6-c333-4d5e-a3ed-c8d11caf897a)
+![Captura de tela 2024-06-18 080341](https://github.com/josuevitorlopes/controledeestoquelogin/assets/164954059/dda16622-ca4d-4446-b79a-91292c3249bc)
